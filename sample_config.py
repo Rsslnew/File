@@ -38,5 +38,5 @@ class Config(object):
     # watermark file
     DEF_WATER_MARK_FILE = ""
     # Database url
-    DB_URI = os.environ.get("DATABASE_URL", "postgresql://ruhwehxs:uUx8rkqaoghtwxwjiVRDc8yJxQ1IJxq6@john.db.elephantsql.com/ruhwehxs")
+    DB_URI = os.environ.get("DATABASE_URL", "postgres://uwkjnfhs:lUpqrKIiU6GOiZol1tP7T0R3ehKK9GP5@rain.db.elephantsql.com/uwkjnfhs")
     
